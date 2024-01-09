@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "145177440607",
+    "project_id": "chatapp-bf616",
+    "storage_bucket": "chatapp-bf616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145177440607:android:1f76954f38506a10fac6ea",
+        "android_client_info": {
+          "package_name": "com.example.ayusharks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnGvisnzn7lvk0iH01VO_E9_fe1T5YZ5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145177440607:android:2daf17b39a8e9a80fac6ea",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnGvisnzn7lvk0iH01VO_E9_fe1T5YZ5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
